@@ -10,5 +10,5 @@ Another paragraph
 ```
 
 * bullet
-* points
+* points</p>
 ``okay man``
